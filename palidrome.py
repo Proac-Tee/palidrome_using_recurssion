@@ -23,7 +23,7 @@ def solution(palindrome):
 
 
 
-print(solution("Racecar"))  # it's not palindrome so it prints prints 0
+print(solution("RacecaR"))  # it's not palindrome so it prints prints 0
 print(solution("Racecar"))  # it's palindrome so it prints prints 1
 print(solution("a"))  # it's is a single character so it prints prints 1
 print(solution(""))  # it's an empty string so it prints prints 1
